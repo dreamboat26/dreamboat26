@@ -7,6 +7,9 @@
 Presently, my endeavors span across multifaceted domains. In the realm of Computer Vision, I'm engineering solutions that decipher the language of pixels and images. Concurrently, I'm orchestrating advancements in Natural Language Processing, engaging in intricate dialogues with sophisticated algorithms.
 
 Simultaneously, I'm immersed in the depths of Deep Learning, unraveling the complexities of neural architectures and pushing the boundaries of machine learning paradigms. In tandem, my pursuits extend into the domain of Materials Science, where I'm actively engaged in exploratory research, harnessing the power of data-driven methodologies to unveil new insights and applications.
+
+![Capture](https://github.com/dreamboat26/dreamboat26/assets/125608791/0c5fc0fc-335a-4953-9475-deaeef37cff5)
+
 <!---
 dreamboat26/dreamboat26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
