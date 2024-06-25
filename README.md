@@ -8,6 +8,15 @@ Presently, my endeavors span across multifaceted domains. In the realm of Comput
 
 Simultaneously, I'm immersed in the depths of Deep Learning, unraveling the complexities of neural architectures and pushing the boundaries of machine learning paradigms. In tandem, my pursuits extend into the domain of Materials Science, where I'm actively engaged in exploratory research, harnessing the power of data-driven methodologies to unveil new insights and applications.
 
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dreamboat26&show_icons=true&theme=dark"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamboat26"/>
+
+
+
+
+
+
+
 ![Capture](https://github.com/dreamboat26/dreamboat26/assets/125608791/0c5fc0fc-335a-4953-9475-deaeef37cff5)
 
 <!---
