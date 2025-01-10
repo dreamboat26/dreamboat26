@@ -3,14 +3,9 @@
 - Currently, I’m working on advancing solutions in computer vision, natural language processing, and deep learning, leveraging frameworks like TensorFlow and PyTorch to push the boundaries of what's possible.
 - My research spans multiple domains, including Materials Science, where I explore how data-driven methods can uncover new insights and innovations. I am committed to exploring the intersection of technology and real-world applications.
 - Let’s collaborate and build cutting-edge solutions to address complex challenges across industries.
-  
 
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) ](https://www.linkedin.com/in/mahuleroy/)[![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) ](https://www.youtube.com/%40dreamboat26)
-[![Kaggle](https://upload.wikimedia.org/wikipedia/commons/a/a3/Kaggle_logo.png)](https://www.kaggle.com/dreamboat26)  
-[![Hugging Face](https://huggingface.co/front/static/huggingface_logo.svg)](https://www.huggingface.co/dreamboat26)  
-[![Website](https://img.shields.io/badge/Website-Click%20Here-green)](https://dreamboat26.github.io/mahuleroy.github.io/) 
-[![Google Scholar](https://upload.wikimedia.org/wikipedia/commons/a/a2/Google_Scholar_logo.svg)]((https://scholar.google.com/citations?user=AUbC2K4AAAAJ&hl=en))
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dreamboat26&theme=dark&show_icons=true&include_all_commits=true" alt="SiddhantSadangi"/>
