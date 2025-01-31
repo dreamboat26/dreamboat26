@@ -1,6 +1,4 @@
-- Currently, working as a NLP Scientist at Triomics. (San Francisco, US)
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) ](https://www.linkedin.com/in/mahuleroy/)[![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) ](https://www.youtube.com/%40dreamboat26)
+- Currently, working as a NLP Engineer at Triomics. (San Francisco, US)
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dreamboat26&theme=dark&show_icons=true&include_all_commits=true" alt="SiddhantSadangi"/>
