@@ -1,8 +1,9 @@
 - Hi, I’m Mahule
-- I am a researcher with a deep passion for AI, Machine Learning, Deep Learning, CNNs, NLP, and Deep Reinforcement Learning. My curiosity drives me to explore new frontiers of knowledge and technology every day.
-- Currently, I’m working on advancing solutions in computer vision, natural language processing, and deep learning, leveraging frameworks like TensorFlow and PyTorch to push the boundaries of what's possible.
-- My research spans multiple domains, including Materials Science, where I explore how data-driven methods can uncover new insights and innovations. I am committed to exploring the intersection of technology and real-world applications.
+- I am a researcher with a deep passion for CNNs, NLP, Nature Inspired Intelligence, and Deep Reinforcement Learning.
+- My curiosity drives me to explore new frontiers of knowledge and technology every day.
+- My research spans multiple domains, including Materials Science, where I explore how data-driven methods can uncover new insights and innovations. 
 - Let’s collaborate and build cutting-edge solutions to address complex challenges across industries.
+- Currently, working as an NLP Intern at Triomics. (San Francisco, US)
 
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) ](https://www.linkedin.com/in/mahuleroy/)[![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) ](https://www.youtube.com/%40dreamboat26)
