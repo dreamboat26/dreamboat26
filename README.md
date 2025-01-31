@@ -1,6 +1,5 @@
 - Currently, working as a NLP Scientist at Triomics. (San Francisco, US)
 
-## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) ](https://www.linkedin.com/in/mahuleroy/)[![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) ](https://www.youtube.com/%40dreamboat26)
 
 <p align="center">
