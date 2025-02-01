@@ -1,4 +1,4 @@
-- Currently, working as a NLP Engineer at Triomics. (San Francisco, US)
+- Currently, working as an NLP Scientist at Triomics. (San Francisco, US)
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dreamboat26&theme=dark&show_icons=true&include_all_commits=true" alt="SiddhantSadangi"/>
