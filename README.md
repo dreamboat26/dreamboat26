@@ -1,4 +1,4 @@
-- Currently, working as an NLP Scientist at Triomics. (San Francisco, US)
+- Currently, working as an Research Scientist at Pontifical Catholic University of Chile (UC Chile). Collaborating on two projects on oncology.
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dreamboat26&theme=dark&show_icons=true&include_all_commits=true" alt="SiddhantSadangi"/>
