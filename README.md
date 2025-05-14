@@ -1,5 +1,4 @@
-Research Intern :- 
-- Pontifical Catholic University of Chile (UC Chile) | Brigham Young University (BYU)
+Research Intern
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dreamboat26&theme=dark&show_icons=true&include_all_commits=true" alt="SiddhantSadangi"/>
