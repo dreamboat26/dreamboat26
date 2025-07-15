@@ -1,6 +1,4 @@
-## 👋 About Me
-
-I am currently a **Research Scientist** at the **Institute of Applied AI and Robotics**.
+## About Me
 
 My work and interests span a broad spectrum of Artificial Intelligence and Machine Learning domains, including:
 
