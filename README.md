@@ -1,6 +1,6 @@
 ## About Me
 
-My work and interests span a broad spectrum of Artificial Intelligence and Machine Learning domains, including:
+My work and interests span a broad spectrum of Artificial Intelligence, Biomedical Engineering and Material Science domains, including:
 
 - **Core Areas**:
   - Computer Vision  
