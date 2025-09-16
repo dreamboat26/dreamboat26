@@ -4,7 +4,7 @@ My work and interests span a broad spectrum of Artificial Intelligence, Biomedic
 
 - **Core Areas**:
   - Computer Vision  
-  - Large Language Models (LLMs)  
+  - Large Language Models   
   - Reinforcement Learning  
   - Representation Learning  
   - Multimodal Learning  
@@ -16,13 +16,8 @@ My work and interests span a broad spectrum of Artificial Intelligence, Biomedic
   - Bio-inspired Optimization Techniques  
 
 - **Interdisciplinary Applications**:
-  - **Biomedical AI** — leveraging ML for healthcare innovation  
-  - **Materials Informatics** — accelerating materials discovery through data-driven methods  
-
-- **Additional Interests**:
-  - Robotics & Autonomous Systems  
-  - Human-AI Interaction  
-  - Responsible and Ethical AI  
+  - **Biomedical AI**   
+  - **Materials Informatics** 
 
 I am passionate about pushing the boundaries of intelligent systems and applying AI to solve real-world scientific discoveries.
 
